@@ -10,6 +10,10 @@
           <option name="url" value="http://code.aliyun.com" />
           <option name="userName" value="zongzhankui" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="hanwen10250627" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
